@@ -49,7 +49,7 @@ $ python main.py
 > rm filename
 ```
 
-##### 4. Print contents of a file:
+#### 4. Print contents of a file:
 **Command:** cat filename
 
 ```sh
