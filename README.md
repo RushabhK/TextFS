@@ -24,14 +24,14 @@ $ python main.py
 
 ## How to use 
 
-#### 1. Create file/files:
+### 1. Create file/files:
 **Command:** touch filename
 
 ```sh
 > touch file1 file2 file3 ..
 ```
 
-#### 2. Write to a file:
+### 2. Write to a file:
 **Command:** write filename
 
 ```sh
@@ -42,28 +42,28 @@ $ python main.py
 
 
 
-#### 3. Delete a file:
+### 3. Delete a file:
 **Command:** rm filename
 
 ```sh
 > rm filename
 ```
 
-#### 4. Print contents of a file:
+### 4. Print contents of a file:
 **Command:** cat filename
 
 ```sh
 > cat filename
 ```
 
-#### 5. List all files:
+### 5. List all files:
 **Command:** ls 
 
 ```sh
 > ls
 ```
 
-#### 6. Exit the program:
+### 6. Exit the program:
 **Command:** exit 
 
 ```sh
