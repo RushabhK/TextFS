@@ -7,7 +7,7 @@ TextFS is an application which can store all the metadata and the actual data of
   - create new files. 
   - write and copy contents into newly created files.
   - list all files. 
-  - print contents of internal files 
+  - print contents of internal files. 
   - delete existing files.
 
 
